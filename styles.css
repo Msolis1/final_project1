@@ -1,5 +1,5 @@
 .hero-img{
-    background-image: url(/images/topography.JPG);
+    background-image: url(topography.JPG);
     width: 100%;
     min-height: 380px;
   }
@@ -250,7 +250,7 @@
   }
   footer {
     width: 100%;
-    background-image: url(/images/topography.JPG);
+    background-image: url(topography.JPG);
     font-family: 'Cormorant SC', serif;
     font-size: 20px;
     text-align: center;
